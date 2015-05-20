@@ -1,9 +1,9 @@
 {
-    "name": "Web App",
-    "description": "Web App Description",
-    "version": "1.0.0",
+    "name": "Web App Test",
+    "description": "Web App Description Test",
+    "version": "1.0.1",
     "developer": {
-        "name": "Your Name",
+        "name": "Zechs7221",
         "url": "https://github.com/gasolin/webapplate"
     },
     "icons":{
